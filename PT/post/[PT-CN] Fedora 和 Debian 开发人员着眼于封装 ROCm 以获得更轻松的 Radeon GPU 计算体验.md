@@ -18,7 +18,7 @@
 同时，一位恰好也是 AMD 员工的 Fedora 打包人员有兴趣亲自[为 Fedora 开发 ROCm 包](https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/thread/DEZTNQWX627WIOT2P4OPL2ZPA27UJXXL/#DEZTNQWX627WIOT2P4OPL2ZPA27UJXXL)。目前他正在评估利害，并了解其他 Fedora 开发人员希望参与这项工作。
 
 ![image1217](/PT/photo/image1217.jpg) 
->构建 ROCm 软件栈并不是一项微不足道的任务，但 AMD 已经在改进包装方面取得了进展，其他发行版维护者也对此产生了更多兴趣。
+>构建 ROCm 软件栈并不是一项微不足道的任务，但 AMD 已经在改进打包方面取得了进展，其他发行版维护者也对此产生了更多兴趣。
 
 几年前，[也有关于为 Fedora 打包 ROCm 的讨论](https://www.phoronix.com/scan.php?page=news_item&px=ROCm-Possible-For-Fedora)，除了 ROCm 软件包的一个子集之外，从未完全实现。 希望这一次事情能够成功，因为看到 ROCm 很容易被前沿的 Fedora 用户使用会很棒。
 
