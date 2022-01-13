@@ -1,30 +1,26 @@
-# What's this?
+# 关于本仓库
 
-It is used to store documents and press releases that I have written.
+这个仓库存储了部分我所写过的文档、翻译和新闻。所有的文档均以 [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) 进行授权使用。
 
-All documents are in markdown document format and are distributed under the CC-BY-SA license by default.
+## 文件夹向导
 
-# Why not make it a blog?
+| 文件夹 | 内容 | 索引 |
+|:---  | :---: | ---:|
+|`_posts`| openSUSE 新闻稿 | [openSUSE 中文社区](https://suse.org.cn/)|
+|`assets`|openSUSE 新闻稿插图|无|
+|`Fedora-docs-zh`|Fedora 中文文档|[目录](./Fedora-docs-zh/Fedora%20-%20index.md)|
+|`OpenBSD-zh`|OpenBSD 中文文档|[目录](./OpenBSD-zh/OpenBSD%20-%20index.md)|
 
-Because I'm stupid and lazy, it's as simple as that.</p>
-~~I tried several times to build a static blog, but it didn't work...~~
+----
 
-# What are the main contents?
+## What's this?
+
+It is used to store documents and press releases that I have written.All documents are in markdown document format and are distributed under the CC-BY-SA license by default.
 
 The main content includes the press release I posted at suse.org.cn and the personally translated posts I posted in the [openSUSE Chinese forum](https://forum.suse.org.cn/).
 
 - Related Github repositories:
   - [openSUSE-zh/page-opensuse-zh](https://github.com/openSUSE-zh/page-opensuse-zh) 
-
-# What is the meaning of this repository?
-
-Just for backup purposes.
-
-# So……
-
-Have fun! 😂
-
--- Hanjingxue Boling,December 5, 2021
 
 ----
 
