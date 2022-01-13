@@ -10,7 +10,7 @@
 |`assets`|openSUSE 新闻稿插图|无|
 |`Fedora-docs-zh`|Fedora 中文文档|[目录](./Fedora-docs-zh/Fedora%20-%20index.md)|
 |`OpenBSD-zh`|OpenBSD 中文文档|[目录](./OpenBSD-zh/OpenBSD%20-%20index.md)|
-|`PT`|在 openSUSE 中文论坛发布的文章|无|
+|`PT`|在 openSUSE 中文论坛发布的文章|[目录](./PT/PT-index.md)|
 
 ----
 
