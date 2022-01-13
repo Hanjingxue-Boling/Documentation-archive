@@ -1,6 +1,6 @@
 # 关于本仓库
 
-这个仓库存储了部分我所写过的文档、翻译和新闻。所有的文档均以 [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) 进行授权使用。
+这个仓库存储了部分我所写过的文档、翻译和新闻。所有的文档均以 [署名-相同方式共享 4.0 国际 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 进行授权使用。
 
 ## 文件夹向导
 
