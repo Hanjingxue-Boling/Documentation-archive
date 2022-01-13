@@ -22,6 +22,7 @@ The main content includes the press release I posted at suse.org.cn and the pers
 
 - Related Github repositories:
   - [openSUSE-zh/page-opensuse-zh](https://github.com/openSUSE-zh/page-opensuse-zh) 
+  - [openbsd-zh-association/docs-openbsd-zh](https://github.com/openbsd-zh-association/docs-openbsd-zh)
 
 ----
 
