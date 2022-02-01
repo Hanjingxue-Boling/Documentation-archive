@@ -5,7 +5,7 @@
 ## 文件夹向导
 
 | 文件夹 | 内容 | 索引 |
-|:---  | :---: | ---:|
+|---|---|---|
 |`_posts`| openSUSE 新闻稿 | [openSUSE 中文社区](https://suse.org.cn/)|
 |`assets`|openSUSE 新闻稿插图|无|
 |`Fedora-docs-zh`|Fedora 中文文档|[目录](./Fedora-docs-zh/Fedora%20-%20index.md)|
