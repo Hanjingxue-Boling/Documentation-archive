@@ -14,4 +14,10 @@
 ## 其他
 
 - [OpenBSD - 报告问题](./other/OpenBSD%20-%20Problem%20Reports.md)
-- [OpenBSD 升级向导：6.9 至 7.0](./other/OpenBSD%20-%20Upgrade%20Guide%206.9%20to%207.0.md)
+- [OpenBSD - 升级向导：6.9 至 7.0](./other/OpenBSD%20-%20Upgrade%20Guide%206.9%20to%207.0.md)
+- [OpenBSD - 跟随 -current 和使用快照](./other/OpenBSD%20-%20Following%20-current%20and%20using%20snapshots.md)
+- [OpenBSD - 邮件列表](./other/OpenBSD%20-%20Mailing%20Lists%20.md)
+
+## 源
+
+- [openbsd-zh-association/docs-openbsd-zh | GitHub](https://github.com/openbsd-zh-association/docs-openbsd-zh)
